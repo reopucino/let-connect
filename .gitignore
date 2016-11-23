@@ -1,2 +1,3 @@
 .DS_Store
-/src/phaser/phaser.js
+/src/game-area.js
+/src/game-duplicate.js
